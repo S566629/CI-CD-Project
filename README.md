@@ -1,6 +1,6 @@
 # CI-CD-Project
 Deployed Go lang application to K8s in EKS clusters
-To get more details about project and its code and docker files loging to below github my personal account: 
+To get more details about project and its code and docker files click to below github my personal account: 
 https://github.com/saikumartmv/go-web-app/actions
 
 ![image](https://github.com/user-attachments/assets/43da644e-52b9-47b8-bb43-e63befb6d294)
